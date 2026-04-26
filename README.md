@@ -1,16 +1,72 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 📘 Intro to React Router
 
-Currently, two official plugins are available:
+A learning repository where I explored the core concepts of **React Router** and practiced routing techniques used in modern React applications.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Built while learning **React.js** and **React Router DOM** 🚀
 
-## React Compiler
+</div>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📖 About This Repository
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This repository contains my practice code and learning notes while exploring **React Router**.
+
+Here, I focused on understanding how routing works in React and practiced different routing patterns, data loading techniques, and navigation methods.
+
+---
+
+## 🧠 What I Learned
+
+✅ Understanding the concept of **Routing** in React  
+
+✅ **Nested Routing** and route structure  
+
+✅ Using **Outlet** to render nested child routes  
+
+✅ Navigation with **Link** and **NavLink**  
+
+✅ Multiple ways to load data using **Loader**  
+
+✅ Fetching route data with **useLoaderData**  
+
+✅ Working with **Route Params**  
+
+✅ Creating **Dynamic Routes / Dynamic Paths**  
+
+✅ Rendering pages based on dynamic route parameters  
+
+✅ Loading data based on route params  
+
+✅ Loading data inside components without route loader  
+
+✅ Creating a **404 Not Found Route**  
+
+✅ Navigation using **Navigate**  
+
+✅ Using **useLocation** to track current route state  
+
+---
+
+## 🛠️ Technologies Used
+
+- React.js  
+- React Router DOM  
+- JavaScript (ES6+)  
+- HTML5  
+- CSS3  
+
+---
+
+## 🎯 Purpose
+
+This repository is part of my React learning journey, where I practice concepts step by step and build a strong foundation in modern React development.
+
+---
+
+## 👨‍💻 Author
+
+**Md. Abu Talha Taufique**  
+Frontend Developer | Learning React Step by Step 🚀
