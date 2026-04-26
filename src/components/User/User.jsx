@@ -5,6 +5,8 @@ import UserDetails2 from '../UserDetails2/UserDetails2';
 const User = ({ user }) => {
     const [showInfo, setShowInfo] = useState(false);
     const [visitHome, setVisitHome] = useState(false);
+
+
     const location = useLocation();
     console.log(location);
 
